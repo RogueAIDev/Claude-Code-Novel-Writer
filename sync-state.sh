@@ -87,18 +87,22 @@ if outline_path.exists():
     except (json.JSONDecodeError, OSError):
         outline = {}
 
-target_words = (
-    existing_progress.get("target_words")
-    or outline.get("target_word_count")
-    or 90000
-)
-novel_title = existing_progress.get("novel_title") or outline.get("title") or "Untitled"
+# An outline may set target_word_count to null to mean "no fixed target".
+if "target_word_count" in outline:
+    target_words = outline["target_word_count"]
+else:
+    target_words = existing_progress.get("target_words") or 90000
+novel_title = outline.get("title") or existing_progress.get("novel_title") or "Untitled"
+total_chapters = outline.get("total_chapters") or existing_progress.get("total_chapters")
+total_scenes = outline.get("total_scenes") or existing_progress.get("total_scenes")
 
 timestamp = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
 progress = {
     **existing_progress,
     "novel_title": novel_title,
     "target_words": target_words,
+    "total_chapters": total_chapters,
+    "total_scenes": total_scenes,
     "current_chapter": current_chapter,
     "current_scene": 1,
     "total_words": total_words,

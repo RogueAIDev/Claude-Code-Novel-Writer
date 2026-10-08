@@ -20,11 +20,43 @@ When sources disagree, use this order unless the user says otherwise:
 
 1. Explicit instructions from the user
 2. Existing prose in `manuscript/chapters/`
-3. Accepted outline and planning files
-4. Character and world state
-5. Derived metrics, flags, logs, and automation output
+3. The author's canon documents, in their own stated order (see "Story sources")
+4. Accepted outline and planning files
+5. Character and world state
+6. Derived metrics, flags, logs, and automation output
 
 Manuscript files are authoritative for drafted prose and actual word counts. If tracking disagrees with manuscript files, run `./sync-state.sh`. Do not rewrite prose to match stale tracking.
+
+## Story sources
+
+This project is *Inheritance*, Book One of *Chronicles of the Shadow Vanguard*, by P. D. Fox II. The author's own documents are canon. They rank as follows, as the documents themselves state:
+
+1. `planning/prequel_My_Final_Draft.md`: *Shadows of Loch Maree*, the published prequel novella, set in autumn 1845, several years before *Inheritance*. Never contradict it. Niall is effectively its lead. Alexander appears only near the end, as a young man. Use it for established history, for how characters already know each other, and as the living proof of the voice.
+2. `planning/Series_Bible.md`: series canon. It governs every other planning document. Part Eleven holds the Drafting Guidelines.
+3. `planning/Master_Vampire_Dossier.md`: every vampire rule. It expands Series Bible Part Six and governs vampire rules in the character bibles.
+4. `characters/Main_Character_Bible.md` (twelve principals) and `characters/Supporting_Character_Bible.md` (everyone else): character profiles, voice, and arcs.
+5. `worldbuilding/Location_Bible.md`: places, with the chapters each place appears in.
+6. `planning/Inheritance_Detailed_Scene_Outline.md`: the working plan for Book One. It has 26 chapters and 153 scenes. Each chapter has an overview with its date span and a length guide. Each scene has a summary and a fifteen-field sheet. "3.2" means Chapter 3, Scene 2.
+7. `planning/Inheritance_Scene_Packets.md`: the outline reproduced in full, plus per-scene drafting packets. These hold character notes, continuity in and out, rules in play, threads, flags, and decisions. Its DECIDED markers and Decisions Log are provisional choices that the author may veto. Nothing in it has entered the bibles.
+8. `planning/Bible_Updates_Ch01-04.md` and `planning/Bible_Updates_Ch05-26.md`: the exact bible text proposed for the packets' decisions, awaiting the author's approval. Use them as the working answer where the bibles are silent. They never override a bible's existing text. The Ch05-26 file's Part Two lists gaps that are now settled in item 9.
+9. `planning/Gap_Resolutions.md`: the author-directed resolutions of every open gap and "Ask Fox" flag in the packets and Bible Updates, with corrections to the packets' moon positions. Where it differs from a packet's DECIDED line, it wins. Its Part Four holds the author's own rulings, which outrank the bibles where they say so, and the questions still reserved for the author. Each open question has a Book One default to follow. Never decide those questions yourself.
+
+Voice is governed by `planning/Author_Writing_Style_and_Voice_Guide.md`. It sits beneath the Series Bible's Drafting Guidelines and never overrules the bible.
+
+Viewpoint and tense: tense is chosen separately for each work in the series, not fixed series-wide. The style guide leaves it open on purpose, because short stories and novellas may differ. For *Inheritance*, the scene outline does not state a tense, and the author has chosen past tense. Write in close third person, past tense. Alexander is the main character and the dominant viewpoint. Each scene uses the viewpoint listed in its "Perspective and goal" field in the scene outline. That includes the short interludes the outline assigns to other characters. Keep one viewpoint per scene.
+
+Length: there is no hard word count for the novel, a chapter, or a scene. The outline's lengths are a general guide only. First drafts may run long and are trimmed in later drafts.
+
+`planning/novel-outline.json` is a machine-readable index derived from the scene outline. It holds parts, chapter titles, viewpoints, spans, length guides, and per-scene location, date, and length guide. When the index and the markdown disagree, the markdown wins. Regenerate the index or fix it; never change the markdown to match it.
+
+These files are large; the Scene Packets alone run to about 10,000 lines. Read by section, not whole files:
+
+- For a chapter, grep the outline and the packets for the heading `Chapter N:` and read from there to the next chapter heading. Also read the packets' Decisions Log near the top of the file.
+- For characters, places, or rules, grep the bibles for the names the scene sheet lists, then read the matching entries.
+- For prequel history, grep the prequel for the relevant names or events. Its chapters open with `# **Chapter N**`, and its scenes are separated by `***`. Read the whole prequel only when calibrating voice.
+- Read the style guide in full before the first drafting or revision session, and again whenever voice is in question.
+
+When two of these documents disagree, do not resolve the conflict silently. Follow the higher-ranked source, and report the conflict to the author with exact file references.
 
 ## Core operating rules
 

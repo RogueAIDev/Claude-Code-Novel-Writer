@@ -1,15 +1,19 @@
 {
-  "voice": "third_person_limited",
+  "governing_document": "planning/Author_Writing_Style_and_Voice_Guide.md",
+  "note": "Summary only. The style guide governs voice and sits beneath the Series Bible's Drafting Guidelines (Part Eleven). Read the guide before drafting or revising prose.",
+  "voice": "third_person_limited_close",
   "tense": "past",
-  "pov_character": "protagonist",
-  "tone": "grounded, immediate prose",
-  "style_notes": [
-    "spare, efficient language",
-    "avoid overly ornate metaphors", 
-    "character-driven tension",
-    "natural dialogue",
-    "understated emotion"
+  "tense_status": "Chosen by the author for Inheritance (2026-10-08). Tense is set per work; the series style guide leaves it open on purpose for other stories and novellas.",
+  "pov_character": "Alexander (main character, dominant viewpoint)",
+  "pov_rule": "each scene uses the viewpoint in its 'Perspective and goal' field in the scene outline, including the outline's interludes; one viewpoint per scene; the narrator never knows more than the viewpoint character",
+  "influences": [
+    "Anne Rice",
+    "Sarah Waters",
+    "V. E. Schwab",
+    "KJ Charles"
   ],
-  "chapter_target_words": 3000,
-  "scene_break_marker": "***"
+  "chapter_target_words": null,
+  "scene_break_marker": "***",
+  "length_note": "No hard word count. Outline lengths are a general guide; long first drafts are fine and get trimmed in revision.",
+  "voice_reference": "planning/prequel_My_Final_Draft.md (Shadows of Loch Maree)"
 }

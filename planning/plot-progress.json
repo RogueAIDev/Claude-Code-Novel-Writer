@@ -1,8 +1,14 @@
 {
   "current_chapter": 1,
   "current_scene": 1,
-  "total_words": 0,
-  "chapter_status": "not_started",
-  "last_action": "initialized",
-  "next_milestone": "create_outline"
+  "total_words": 2363,
+  "chapter_status": "in_progress",
+  "last_action": "state_synchronized",
+  "next_milestone": "complete_chapter_1",
+  "novel_title": "Inheritance - Chronicles of the Shadow Vanguard: Vol. 1",
+  "target_words": null,
+  "chapters_completed": [],
+  "last_sync_time": "2026-10-08T22:12:26.882710Z",
+  "total_chapters": 26,
+  "total_scenes": 153
 }

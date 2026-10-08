@@ -1,12 +1,1722 @@
 {
-  "title": "",
+  "title": "Inheritance - Chronicles of the Shadow Vanguard: Vol. 1",
+  "series": "Chronicles of the Shadow Vanguard",
+  "book_number": 1,
+  "author": "P. D. Fox II",
   "genre": "fantasy",
-  "target_word_count": 90000,
-  "total_chapters": 30,
-  "acts": {
-    "act_1": {"chapters": [1,2,3,4,5,6,7,8,9,10], "theme": "setup"},
-    "act_2": {"chapters": [11,12,13,14,15,16,17,18,19,20], "theme": "confrontation"},
-    "act_3": {"chapters": [21,22,23,24,25,26,27,28,29,30], "theme": "resolution"}
+  "target_word_count": null,
+  "word_guide": {
+    "outline_total": 120600,
+    "note": "General idea only, not a limit. The author prefers no hard word count for the novel, a chapter, or a scene. First drafts may run long and be cut in later drafts."
   },
-  "chapters": {}
+  "total_chapters": 26,
+  "total_scenes": 153,
+  "sources": {
+    "scene_outline": "planning/Inheritance_Detailed_Scene_Outline.md",
+    "scene_packets": "planning/Inheritance_Scene_Packets.md",
+    "note": "Index derived from the detailed scene outline. The markdown files hold the full chapter overviews and scene sheets; read them for drafting."
+  },
+  "parts": [
+    {
+      "part": 1,
+      "title": "The Grey Year",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "part": 2,
+      "title": "The Road North",
+      "chapters": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "part": 3,
+      "title": "Loch Maree",
+      "chapters": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "part": 4,
+      "title": "The Refuge",
+      "chapters": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "part": 5,
+      "title": "For Crown and Kin",
+      "chapters": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "part": 6,
+      "title": "The Hidden Crown",
+      "chapters": [
+        25,
+        26
+      ]
+    }
+  ],
+  "chapters": {
+    "1": {
+      "title": "The Harvest Festival",
+      "part": 1,
+      "setting": "Sterling Castle, Norfolk, Autumn 1851",
+      "viewpoint": "Alexander, with a closing interlude from Catherine",
+      "span": "Saturday 27 September 1851, late morning to near midnight. About thirteen hours.",
+      "guide_words": 4600,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "1.1",
+          "title": "The festival yard",
+          "viewpoint": "Alexander",
+          "location": "Sterling Castle, Norfolk: the festival yard by the gate, then the great kitchen.",
+          "date_time": "Saturday 27 September 1851, about eleven in the morning.",
+          "guide_words": 800
+        },
+        {
+          "scene": 2,
+          "id": "1.2",
+          "title": "The lower training yard",
+          "viewpoint": "Alexander",
+          "location": "The lower training yard, with the butt of the old chestnut used as a target and the bench against the wall.",
+          "date_time": "Saturday 27 September 1851, about two in the afternoon.",
+          "guide_words": 900
+        },
+        {
+          "scene": 3,
+          "id": "1.3",
+          "title": "The crestless carriage",
+          "viewpoint": "Alexander",
+          "location": "The front steps and carriage sweep of Sterling Castle.",
+          "date_time": "Saturday 27 September 1851, about ten to six in the evening (sunset 5:48).",
+          "guide_words": 700
+        },
+        {
+          "scene": 4,
+          "id": "1.4",
+          "title": "Festival dinner in the great hall",
+          "viewpoint": "Alexander, observing",
+          "location": "The great hall, candlelit, with the long table and the festival's harvest decorations.",
+          "date_time": "Saturday 27 September 1851, about eight to ten in the evening.",
+          "guide_words": 1000
+        },
+        {
+          "scene": 5,
+          "id": "1.5",
+          "title": "The kitchen garden and the long gallery",
+          "viewpoint": "The first half is Alexander, who wants to help Niall catch whatever is at the wall",
+          "location": "The kitchen garden and its low wall, then the long gallery with its portraits and tall uncurtained windows.",
+          "date_time": "Saturday 27 September 1851, about half past eleven to midnight.",
+          "guide_words": 1200
+        }
+      ]
+    },
+    "2": {
+      "title": "The Price of Useless Land",
+      "part": 1,
+      "setting": "Sterling Castle, Norfolk, Autumn 1851",
+      "viewpoint": "Alexander, with interludes from Amelia and Catherine",
+      "span": "Tuesday 30 September to Sunday 5 October 1851.",
+      "guide_words": 4600,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "2.1",
+          "title": "The study",
+          "viewpoint": "Alexander",
+          "location": "Edward's study, with drawn curtains, lamps, a fire, and the carved \"For Crown and Kin\" above the hearth.",
+          "date_time": "Tuesday 30 September 1851, about seven in the evening (sunset 5:41).",
+          "guide_words": 1000
+        },
+        {
+          "scene": 2,
+          "id": "2.2",
+          "title": "Seraphina's cottage",
+          "viewpoint": "Amelia (interlude)",
+          "location": "Seraphina's cottage, two miles from the castle, with herbs hung from the beams and the scrying basin on the table.",
+          "date_time": "Wednesday 1 October 1851, about three in the afternoon.",
+          "guide_words": 900
+        },
+        {
+          "scene": 3,
+          "id": "2.3",
+          "title": "After the carriage",
+          "viewpoint": "Alexander",
+          "location": "Edward's study, then the corridor outside.",
+          "date_time": "Wednesday 1 October 1851, about half past nine in the evening, after Hessian's carriage leaves.",
+          "guide_words": 600
+        },
+        {
+          "scene": 4,
+          "id": "2.4",
+          "title": "The last fireworks",
+          "viewpoint": "Alexander, and then a short passage from Catherine",
+          "location": "The castle battlements, then Catherine's bedroom in the east wing (with balcony doors).",
+          "date_time": "Saturday 4 October 1851, about nine in the evening, the festival's closing night (moonset about 12:30).",
+          "guide_words": 800
+        },
+        {
+          "scene": 5,
+          "id": "2.5",
+          "title": "The locked room",
+          "viewpoint": "Alexander",
+          "location": "The east corridor and Catherine's room.",
+          "date_time": "Sunday 5 October 1851, about quarter past six in the morning (sunrise 6:06).",
+          "guide_words": 900
+        }
+      ]
+    },
+    "3": {
+      "title": "The Grey Year",
+      "part": 1,
+      "setting": "Sterling Castle and the London townhouse, Autumn 1851 to Autumn 1852",
+      "viewpoint": "Alexander, with an interlude from Catherine",
+      "span": "Tuesday 7 October 1851 to Saturday 20 November 1852. (this chapter spans the longest stretch of time in the book).",
+      "guide_words": 4800,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "3.1",
+          "title": "Inspector Pike",
+          "viewpoint": "Alexander",
+          "location": "Catherine's room and the east corridor, then the morning room.",
+          "date_time": "Tuesday 7 October 1851, late morning.",
+          "guide_words": 900
+        },
+        {
+          "scene": 2,
+          "id": "3.2",
+          "title": "The jewellery box",
+          "viewpoint": "Alexander",
+          "location": "Catherine's room at night, with the false-bottomed jewellery box.",
+          "date_time": "Thursday 9 October 1851, about eleven at night.",
+          "guide_words": 800
+        },
+        {
+          "scene": 3,
+          "id": "3.3",
+          "title": "The room beneath the stone",
+          "viewpoint": "Catherine (interlude)",
+          "location": "A stone room in the northern refuge, with fine linen, damp, salt air, and the door left open a hand's width.",
+          "date_time": "Mid-October 1851 through late winter 1851–52. This is a sequence of moments.",
+          "guide_words": 1100
+        },
+        {
+          "scene": 4,
+          "id": "3.4",
+          "title": "The year without a festival",
+          "viewpoint": "Alexander",
+          "location": "The coast, barns, and Sterling Castle across months. It ends in the library in February.",
+          "date_time": "October 1851 through February 1852. Each beat opens with its month.",
+          "guide_words": 900
+        },
+        {
+          "scene": 5,
+          "id": "3.5",
+          "title": "London, November 1852",
+          "viewpoint": "Alexander",
+          "location": "The Sterling townhouse in a London square: the drawing room, then the front hall and the steps.",
+          "date_time": "Visitors on Thursday 18 November 1852 (Wellington's funeral day). Pike on Friday 19 November. The letter on the night of Saturday 20 November, about nine, with the carriage gone by midnight.",
+          "guide_words": 1100
+        }
+      ]
+    },
+    "4": {
+      "title": "Letters Through the Storm",
+      "part": 1,
+      "setting": "Sterling Castle, Norfolk, Winter 1852",
+      "viewpoint": "Alexander",
+      "span": "Tuesday 30 November to the small hours of Wednesday 1 December 1852.",
+      "guide_words": 4400,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "4.1",
+          "title": "The iron-strapped door",
+          "viewpoint": "Alexander",
+          "location": "The Sterling Castle entrance hall, then the undercroft passage and the iron-strapped door.",
+          "date_time": "Tuesday 30 November 1852, about three to four in the afternoon (sunset 3:49).",
+          "guide_words": 700
+        },
+        {
+          "scene": 2,
+          "id": "4.2",
+          "title": "The gatehouse bell",
+          "viewpoint": "Alexander",
+          "location": "The gatehouse, then the courtyard and the kitchen passage.",
+          "date_time": "Tuesday 30 November 1852, about quarter to midnight.",
+          "guide_words": 800
+        },
+        {
+          "scene": 3,
+          "id": "4.3",
+          "title": "Two letters",
+          "viewpoint": "Alexander",
+          "location": "Edward's study, with cold pipe ash and a fire Niall lights.",
+          "date_time": "Wednesday 1 December 1852, about quarter past midnight.",
+          "guide_words": 900
+        },
+        {
+          "scene": 4,
+          "id": "4.4",
+          "title": "\"Yes.\"",
+          "viewpoint": "Alexander",
+          "location": "Edward's study.",
+          "date_time": "Wednesday 1 December 1852, about quarter to one to half past one in the morning.",
+          "guide_words": 1100
+        },
+        {
+          "scene": 5,
+          "id": "4.5",
+          "title": "Down",
+          "viewpoint": "Alexander",
+          "location": "The undercroft and the iron-strapped door, then the first steps down.",
+          "date_time": "Wednesday 1 December 1852, about quarter to two in the morning.",
+          "guide_words": 400
+        }
+      ]
+    },
+    "5": {
+      "title": "The Castle Beneath the Castle",
+      "part": 2,
+      "setting": "Sterling Castle, Norfolk, Winter 1852",
+      "viewpoint": "Alexander",
+      "span": "Wednesday 1 December 1852, about two to half past seven in the morning.",
+      "guide_words": 4700,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "5.1",
+          "title": "What the undercroft kept",
+          "viewpoint": "Alexander",
+          "location": "The first storeroom below the iron-strapped door, with the prequel's machinery.",
+          "date_time": "Wednesday 1 December 1852, about two in the morning.",
+          "guide_words": 700
+        },
+        {
+          "scene": 2,
+          "id": "5.2",
+          "title": "The council chamber",
+          "viewpoint": "Alexander",
+          "location": "The council chamber, with its long scarred table.",
+          "date_time": "Wednesday 1 December 1852, about half past two in the morning.",
+          "guide_words": 900
+        },
+        {
+          "scene": 3,
+          "id": "5.3",
+          "title": "The sanctuary",
+          "viewpoint": "Alexander",
+          "location": "The sanctuary hall, lit gold by hanging lamps.",
+          "date_time": "Wednesday 1 December 1852, about half past three in the morning.",
+          "guide_words": 600
+        },
+        {
+          "scene": 4,
+          "id": "5.4",
+          "title": "The boggart on the stair",
+          "viewpoint": "Alexander",
+          "location": "The upper stair and gallery of the sanctuary.",
+          "date_time": "Wednesday 1 December 1852, about four in the morning.",
+          "guide_words": 700
+        },
+        {
+          "scene": 5,
+          "id": "5.5",
+          "title": "Samuel Pryce",
+          "viewpoint": "Alexander",
+          "location": "Beatrice's records room, with shelves of personnel files.",
+          "date_time": "Wednesday 1 December 1852, about half past four in the morning.",
+          "guide_words": 700
+        },
+        {
+          "scene": 6,
+          "id": "5.6",
+          "title": "The cold window",
+          "viewpoint": "Alexander",
+          "location": "An upper gallery window of the castle, looking east to the sea.",
+          "date_time": "Wednesday 1 December 1852, about quarter past seven in the morning (sunrise 7:49).",
+          "guide_words": 600
+        }
+      ]
+    },
+    "6": {
+      "title": "Terms of Departure",
+      "part": 2,
+      "setting": "Sterling Castle, Norfolk, Winter 1852",
+      "viewpoint": "Alexander",
+      "span": "Wednesday 1 December to about five in the morning on Friday 3 December 1852.",
+      "guide_words": 4800,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "6.1",
+          "title": "The physician's table",
+          "viewpoint": "Alexander",
+          "location": "The hidden infirmary, with steel tables and gas lamps.",
+          "date_time": "Wednesday 1 December 1852, about eleven in the morning.",
+          "guide_words": 800
+        },
+        {
+          "scene": 2,
+          "id": "6.2",
+          "title": "Seraphina and the seal",
+          "viewpoint": "Alexander",
+          "location": "The council chamber annex, with the scrying basin on the table.",
+          "date_time": "Wednesday 1 December 1852, about two in the afternoon.",
+          "guide_words": 700
+        },
+        {
+          "scene": 3,
+          "id": "6.3",
+          "title": "Terms in the yard",
+          "viewpoint": "Alexander",
+          "location": "The lower training yard at night, lit by a lantern hung on the wall.",
+          "date_time": "Wednesday 1 December 1852, about eight to nine in the evening.",
+          "guide_words": 900
+        },
+        {
+          "scene": 4,
+          "id": "6.4",
+          "title": "The smuggler",
+          "viewpoint": "Alexander",
+          "location": "The vault beneath the stables, with the smuggler's table.",
+          "date_time": "Wednesday 1 December 1852, about eleven at night.",
+          "guide_words": 900
+        },
+        {
+          "scene": 5,
+          "id": "6.5",
+          "title": "The gatehouse",
+          "viewpoint": "Thomas (interlude)",
+          "location": "The gatehouse and the drive.",
+          "date_time": "Thursday 2 December 1852, about quarter to eight in the morning (sunrise 7:51).",
+          "guide_words": 600
+        },
+        {
+          "scene": 6,
+          "id": "6.6",
+          "title": "Through the wall",
+          "viewpoint": "Alexander",
+          "location": "The armory, then the gap in the estate wall and the dark lane beyond.",
+          "date_time": "Friday 3 December 1852, about five in the morning.",
+          "guide_words": 800
+        }
+      ]
+    },
+    "7": {
+      "title": "The Smuggler's Road",
+      "part": 2,
+      "setting": "A goods siding in the Fens, and the line north, Winter 1852",
+      "viewpoint": "Alexander, with interludes from Catherine and Percival",
+      "span": "Friday 3 December to Sunday 5 December 1852.",
+      "guide_words": 4600,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "7.1",
+          "title": "Cattle and manifests",
+          "viewpoint": "Alexander",
+          "location": "A goods siding in the Fens, with cattle trucks and a crate lid used as a desk.",
+          "date_time": "Friday 3 December 1852, about noon.",
+          "guide_words": 600
+        },
+        {
+          "scene": 2,
+          "id": "7.2",
+          "title": "The drovers' van",
+          "viewpoint": "Alexander",
+          "location": "The drovers' van on a slow freight train heading north.",
+          "date_time": "Friday 3 December 1852, about seven in the evening.",
+          "guide_words": 700
+        },
+        {
+          "scene": 3,
+          "id": "7.3",
+          "title": "The cup",
+          "viewpoint": "Catherine (interlude)",
+          "location": "Catherine's room in the refuge.",
+          "date_time": "Friday 3 December 1852, about half past three in the afternoon, dusk at Loch Maree (sunset about 3:20).",
+          "guide_words": 900
+        },
+        {
+          "scene": 4,
+          "id": "7.4",
+          "title": "The watcher on the platform",
+          "viewpoint": "Alexander",
+          "location": "A junction platform on the northern line at York.",
+          "date_time": "Saturday 4 December 1852, about eight in the morning.",
+          "guide_words": 500
+        },
+        {
+          "scene": 5,
+          "id": "7.5",
+          "title": "Percival",
+          "viewpoint": "Percival (interlude)",
+          "location": "A hotel near the Perth railhead.",
+          "date_time": "Saturday 4 December 1852, about nine at night.",
+          "guide_words": 700
+        },
+        {
+          "scene": 6,
+          "id": "7.6",
+          "title": "Alwinton",
+          "viewpoint": "Alexander",
+          "location": "Webb's inn at Alwinton, at the foot of Clennell Street.",
+          "date_time": "Sunday 5 December 1852, about half past four in the afternoon.",
+          "guide_words": 600
+        }
+      ]
+    },
+    "8": {
+      "title": "First Blood",
+      "part": 2,
+      "setting": "Webb's inn, Alwinton, Northumberland, Winter 1852",
+      "viewpoint": "Alexander",
+      "span": "Sunday 5 December, evening, to Monday 6 December 1852, dawn.",
+      "guide_words": 4500,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "8.1",
+          "title": "Two sets of prints",
+          "viewpoint": "Alexander",
+          "location": "The inn yard and the taproom.",
+          "date_time": "Sunday 5 December 1852, about nine in the evening.",
+          "guide_words": 500
+        },
+        {
+          "scene": 2,
+          "id": "8.2",
+          "title": "Men who want them alive",
+          "viewpoint": "Alexander",
+          "location": "The inn's ground floor and the foot of the stair.",
+          "date_time": "Monday 6 December 1852, about one in the morning.",
+          "guide_words": 700
+        },
+        {
+          "scene": 3,
+          "id": "8.3",
+          "title": "The stair",
+          "viewpoint": "Alexander",
+          "location": "The narrow inn stair.",
+          "date_time": "Monday 6 December 1852, about ten past one in the morning.",
+          "guide_words": 700
+        },
+        {
+          "scene": 4,
+          "id": "8.4",
+          "title": "Fire",
+          "viewpoint": "Alexander",
+          "location": "The stable and the upper floor of the inn.",
+          "date_time": "Monday 6 December 1852, about a quarter to two in the morning.",
+          "guide_words": 700
+        },
+        {
+          "scene": 5,
+          "id": "8.5",
+          "title": "Snow",
+          "viewpoint": "Alexander",
+          "location": "The snowy yard beside the burned inn.",
+          "date_time": "Monday 6 December 1852, about three in the morning.",
+          "guide_words": 600
+        },
+        {
+          "scene": 6,
+          "id": "8.6",
+          "title": "Clennell Street",
+          "viewpoint": "Alexander",
+          "location": "Clennell Street drove road over the Cheviots, climbing to the border ridge.",
+          "date_time": "Monday 6 December 1852, from about six in the morning to midday.",
+          "guide_words": 500
+        }
+      ]
+    },
+    "9": {
+      "title": "The Capture Convoy",
+      "part": 2,
+      "setting": "The Drumochter road, Grampian Mountains, Winter 1852",
+      "viewpoint": "Alexander",
+      "span": "Tuesday 7 December to Thursday 9 December 1852.",
+      "guide_words": 4600,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "9.1",
+          "title": "North of Perth",
+          "viewpoint": "Alexander",
+          "location": "The railway from Hawick to Edinburgh to Perth, then the military road north over Drumochter.",
+          "date_time": "Tuesday 7 December to Thursday 9 December 1852.",
+          "guide_words": 600
+        },
+        {
+          "scene": 2,
+          "id": "9.2",
+          "title": "The convoy",
+          "viewpoint": "Alexander",
+          "location": "A rise above the Drumochter road.",
+          "date_time": "Thursday 9 December 1852, about eleven in the morning.",
+          "guide_words": 500
+        },
+        {
+          "scene": 3,
+          "id": "9.3",
+          "title": "The hitch in her stride",
+          "viewpoint": "Alexander",
+          "location": "The rise, and the approach to Dalwhinnie ford.",
+          "date_time": "Thursday 9 December 1852, about half past eleven.",
+          "guide_words": 800
+        },
+        {
+          "scene": 4,
+          "id": "9.4",
+          "title": "The ford",
+          "viewpoint": "Alexander",
+          "location": "Dalwhinnie ford and toll point.",
+          "date_time": "Thursday 9 December 1852, about one in the afternoon.",
+          "guide_words": 1000
+        },
+        {
+          "scene": 5,
+          "id": "9.5",
+          "title": "Let them go",
+          "viewpoint": "Alexander",
+          "location": "The ford and the road beyond.",
+          "date_time": "Thursday 9 December 1852, about half past one to two in the afternoon.",
+          "guide_words": 600
+        },
+        {
+          "scene": 6,
+          "id": "9.6",
+          "title": "The cost of mercy",
+          "viewpoint": "Alexander",
+          "location": "A roadside camp in a pine shelter.",
+          "date_time": "Thursday 9 December 1852, about nine at night.",
+          "guide_words": 600
+        }
+      ]
+    },
+    "10": {
+      "title": "The Frozen Crossing",
+      "part": 2,
+      "setting": "The Black Water gorge, Ross-shire, Winter 1852",
+      "viewpoint": "Alexander, with an interlude from Catherine",
+      "span": "Tuesday 14 December to Wednesday 15 December 1852.",
+      "guide_words": 4800,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "10.1",
+          "title": "The raptor",
+          "viewpoint": "Alexander",
+          "location": "The road west of Inverness toward the Black Water.",
+          "date_time": "Tuesday 14 December 1852, about two in the afternoon.",
+          "guide_words": 500
+        },
+        {
+          "scene": 2,
+          "id": "10.2",
+          "title": "The bridge",
+          "viewpoint": "Alexander",
+          "location": "The timber bridge over the gorge, the icy river, and the banks.",
+          "date_time": "Tuesday 14 December 1852, about quarter to three.",
+          "guide_words": 700
+        },
+        {
+          "scene": 3,
+          "id": "10.3",
+          "title": "\"Kill the knife-thrower.\"",
+          "viewpoint": "Alexander",
+          "location": "The birch wood by the gorge.",
+          "date_time": "Tuesday 14 December 1852, about quarter past three.",
+          "guide_words": 900
+        },
+        {
+          "scene": 4,
+          "id": "10.4",
+          "title": "Four years",
+          "viewpoint": "Alexander",
+          "location": "The birch wood in the dusk.",
+          "date_time": "Tuesday 14 December 1852, about four in the afternoon.",
+          "guide_words": 900
+        },
+        {
+          "scene": 5,
+          "id": "10.5",
+          "title": "Keep leaving marks",
+          "viewpoint": "Catherine (interlude)",
+          "location": "Catherine's room in the refuge.",
+          "date_time": "Tuesday 14 December 1852, about nine at night.",
+          "guide_words": 700
+        },
+        {
+          "scene": 6,
+          "id": "10.6",
+          "title": "The road to Loch Maree",
+          "viewpoint": "Alexander",
+          "location": "The road west through Ross-shire.",
+          "date_time": "Wednesday 15 December 1852, all day and into the night.",
+          "guide_words": 500
+        }
+      ]
+    },
+    "11": {
+      "title": "The Price of Mercy",
+      "part": 3,
+      "setting": "Loch Maree, Scottish Highlands, Winter 1852",
+      "viewpoint": "Alexander",
+      "span": "Thursday 16 December 1852, from dusk to about two the next morning.",
+      "guide_words": 4600,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "11.1",
+          "title": "The still water",
+          "viewpoint": "Alexander",
+          "location": "The eastern end of Loch Maree, on the shingle shore.",
+          "date_time": "Thursday 16 December 1852, about three in the afternoon.",
+          "guide_words": 500
+        },
+        {
+          "scene": 2,
+          "id": "11.2",
+          "title": "Rhoswen",
+          "viewpoint": "Alexander",
+          "location": "The shallows.",
+          "date_time": "Thursday 16 December 1852, about quarter past three.",
+          "guide_words": 800
+        },
+        {
+          "scene": 3,
+          "id": "11.3",
+          "title": "Her terms",
+          "viewpoint": "Alexander",
+          "location": "The two standing stones, then the channel across an arm of the loch.",
+          "date_time": "Thursday 16 December 1852, about four in the afternoon.",
+          "guide_words": 700
+        },
+        {
+          "scene": 4,
+          "id": "11.4",
+          "title": "The camp",
+          "viewpoint": "Alexander",
+          "location": "The Vanguard camp on the far shore, with canvas tents and a fire.",
+          "date_time": "Thursday 16 December 1852, about seven in the evening.",
+          "guide_words": 700
+        },
+        {
+          "scene": 5,
+          "id": "11.5",
+          "title": "Two letters, one argument",
+          "viewpoint": "Alexander",
+          "location": "The command tent.",
+          "date_time": "Thursday 16 December 1852, about ten at night.",
+          "guide_words": 900
+        },
+        {
+          "scene": 6,
+          "id": "11.6",
+          "title": "The watch",
+          "viewpoint": "Alexander",
+          "location": "The camp fire on the watch line.",
+          "date_time": "Friday 17 December 1852, about midnight to one in the morning.",
+          "guide_words": 600
+        }
+      ]
+    },
+    "12": {
+      "title": "Crown and Family",
+      "part": 3,
+      "setting": "The Vanguard camp near Loch Maree, Winter 1852",
+      "viewpoint": "Alexander, with interludes from Harcourt and Thomas",
+      "span": "Friday 17 December to Saturday 18 December 1852.",
+      "guide_words": 4800,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "12.1",
+          "title": "The party from the sea",
+          "viewpoint": "Alexander",
+          "location": "The camp.",
+          "date_time": "Friday 17 December 1852, about ten in the morning.",
+          "guide_words": 700
+        },
+        {
+          "scene": 2,
+          "id": "12.2",
+          "title": "The map tent",
+          "viewpoint": "Alexander",
+          "location": "The map tent.",
+          "date_time": "Friday 17 December 1852, about noon.",
+          "guide_words": 800
+        },
+        {
+          "scene": 3,
+          "id": "12.3",
+          "title": "Percival's offer",
+          "viewpoint": "Alexander",
+          "location": "The camp perimeter, then the map tent.",
+          "date_time": "Friday 17 December 1852, about three to four in the afternoon.",
+          "guide_words": 1000
+        },
+        {
+          "scene": 4,
+          "id": "12.4",
+          "title": "The microscope",
+          "viewpoint": "Harcourt (interlude)",
+          "location": "The infirmary at Sterling Castle, then the sanctuary.",
+          "date_time": "Friday 17 December 1852, about eight in the evening.",
+          "guide_words": 800
+        },
+        {
+          "scene": 5,
+          "id": "12.5",
+          "title": "Easy now",
+          "viewpoint": "Thomas (interlude)",
+          "location": "The hedge by the kitchen garden, the gate, and the sanctuary.",
+          "date_time": "Friday 17 December 1852, about half past nine at night.",
+          "guide_words": 700
+        },
+        {
+          "scene": 6,
+          "id": "12.6",
+          "title": "At the ward line",
+          "viewpoint": "Alexander",
+          "location": "The ward line of standing pines.",
+          "date_time": "Friday 17 December 1852, about ten at night.",
+          "guide_words": 800
+        }
+      ]
+    },
+    "13": {
+      "title": "What the Water Keeps",
+      "part": 3,
+      "setting": "Loch Maree, Winter 1852",
+      "viewpoint": "Alexander, witnessing all three revelations",
+      "span": "Saturday 18 December 1852.",
+      "guide_words": 4800,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "13.1",
+          "title": "The birch bark",
+          "viewpoint": "Alexander",
+          "location": "The loch edge.",
+          "date_time": "Saturday 18 December 1852, about half past nine in the morning.",
+          "guide_words": 900
+        },
+        {
+          "scene": 2,
+          "id": "13.2",
+          "title": "Unasked",
+          "viewpoint": "Alexander",
+          "location": "The shingle.",
+          "date_time": "Saturday 18 December 1852, about eleven in the morning.",
+          "guide_words": 800
+        },
+        {
+          "scene": 3,
+          "id": "13.3",
+          "title": "The standing stones",
+          "viewpoint": "Alexander, witnessing",
+          "location": "The standing stones.",
+          "date_time": "Saturday 18 December 1852, about noon.",
+          "guide_words": 1000
+        },
+        {
+          "scene": 4,
+          "id": "13.4",
+          "title": "Twenty-five",
+          "viewpoint": "Alexander",
+          "location": "The loch shore.",
+          "date_time": "Saturday 18 December 1852, about two in the afternoon.",
+          "guide_words": 800
+        },
+        {
+          "scene": 5,
+          "id": "13.5",
+          "title": "Not waiting",
+          "viewpoint": "Alexander",
+          "location": "The map tent.",
+          "date_time": "Saturday 18 December 1852, about six in the evening.",
+          "guide_words": 700
+        },
+        {
+          "scene": 6,
+          "id": "13.6",
+          "title": "The notebook",
+          "viewpoint": "Alexander",
+          "location": "The loch edge.",
+          "date_time": "Saturday 18 December 1852, about eleven at night.",
+          "guide_words": 600
+        }
+      ]
+    },
+    "14": {
+      "title": "The One-Way Passage",
+      "part": 4,
+      "setting": "Loch Maree, Winter 1852",
+      "viewpoint": "Alexander, with a Catherine interlude",
+      "span": "Sunday 19 December 1852, dusk to early evening, plus the interlude three nights earlier.",
+      "guide_words": 4600,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "14.1",
+          "title": "Dusk",
+          "viewpoint": "Alexander",
+          "location": "Loch Maree's western shore, by the standing stones at the channel mouth.",
+          "date_time": "Sunday 19 December 1852, about quarter to three to three in the afternoon.",
+          "guide_words": 700
+        },
+        {
+          "scene": 2,
+          "id": "14.2",
+          "title": "Nothing hidden",
+          "viewpoint": "Alexander",
+          "location": "The same shore.",
+          "date_time": "Sunday 19 December 1852, about quarter past three.",
+          "guide_words": 800
+        },
+        {
+          "scene": 3,
+          "id": "14.3",
+          "title": "The channel",
+          "viewpoint": "Alexander",
+          "location": "The drowned channel under the hill, between walls of held water.",
+          "date_time": "Sunday 19 December 1852, about half past three to half past four.",
+          "guide_words": 600
+        },
+        {
+          "scene": 4,
+          "id": "14.4",
+          "title": "The way closes",
+          "viewpoint": "Alexander",
+          "location": "The vaulted threshold of the refuge.",
+          "date_time": "Sunday 19 December 1852, about quarter to five.",
+          "guide_words": 500
+        },
+        {
+          "scene": 5,
+          "id": "14.5",
+          "title": "The covenant chamber, her choosing",
+          "viewpoint": "Catherine (interlude)",
+          "location": "The refuge: Hessian's rooms, then her own room.",
+          "date_time": "Thursday 16 December 1852, about midnight (three nights earlier).",
+          "guide_words": 800
+        },
+        {
+          "scene": 6,
+          "id": "14.6",
+          "title": "The bell",
+          "viewpoint": "Alexander",
+          "location": "The refuge threshold passage.",
+          "date_time": "Sunday 19 December 1852, about five in the afternoon.",
+          "guide_words": 300
+        }
+      ]
+    },
+    "15": {
+      "title": "The Ancient Refuge",
+      "part": 4,
+      "setting": "The northern refuge, Scottish Highlands, Winter 1852",
+      "viewpoint": "Alexander, with a Seraphina interlude",
+      "span": "Sunday 19 December 1852, about half past five to nine in the evening.",
+      "guide_words": 4700,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "15.1",
+          "title": "The unmirrored wing",
+          "viewpoint": "Alexander",
+          "location": "The refuge corridors, including the unmirrored wing.",
+          "date_time": "Sunday 19 December 1852, about half past five.",
+          "guide_words": 700
+        },
+        {
+          "scene": 2,
+          "id": "15.2",
+          "title": "The cages",
+          "viewpoint": "Alexander",
+          "location": "The lower gallery with the cages.",
+          "date_time": "Sunday 19 December 1852, about half past six.",
+          "guide_words": 800
+        },
+        {
+          "scene": 3,
+          "id": "15.3",
+          "title": "The relief",
+          "viewpoint": "Alexander",
+          "location": "The round hall with the relief.",
+          "date_time": "Sunday 19 December 1852, about quarter past seven.",
+          "guide_words": 600
+        },
+        {
+          "scene": 4,
+          "id": "15.4",
+          "title": "Her room",
+          "viewpoint": "Alexander",
+          "location": "Catherine's room.",
+          "date_time": "Sunday 19 December 1852, about eight in the evening.",
+          "guide_words": 700
+        },
+        {
+          "scene": 5,
+          "id": "15.5",
+          "title": "The passage",
+          "viewpoint": "Seraphina (interlude)",
+          "location": "A junction of the servants' way.",
+          "date_time": "Sunday 19 December 1852, about half past eight.",
+          "guide_words": 600
+        },
+        {
+          "scene": 6,
+          "id": "15.6",
+          "title": "The antechamber",
+          "viewpoint": "Alexander",
+          "location": "The antechamber off the covenant chamber.",
+          "date_time": "Sunday 19 December 1852, about nine in the evening.",
+          "guide_words": 900
+        }
+      ]
+    },
+    "16": {
+      "title": "The First Rescue",
+      "part": 4,
+      "setting": "The northern refuge, Winter 1852",
+      "viewpoint": "Alexander",
+      "span": "Sunday 19 December 1852, about half past nine to twenty to eleven at night.",
+      "guide_words": 4500,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "16.1",
+          "title": "Edward's plan, her plan",
+          "viewpoint": "Alexander",
+          "location": "The antechamber.",
+          "date_time": "Sunday 19 December 1852, about half past nine.",
+          "guide_words": 600
+        },
+        {
+          "scene": 2,
+          "id": "16.2",
+          "title": "He's felt me reaching",
+          "viewpoint": "Alexander",
+          "location": "The antechamber's ward-stone.",
+          "date_time": "Sunday 19 December 1852, about ten to ten.",
+          "guide_words": 500
+        },
+        {
+          "scene": 3,
+          "id": "16.3",
+          "title": "Welcome",
+          "viewpoint": "Alexander",
+          "location": "The covenant chamber, with its dais and seal and a gallery above.",
+          "date_time": "Sunday 19 December 1852, about quarter past ten.",
+          "guide_words": 800
+        },
+        {
+          "scene": 4,
+          "id": "16.4",
+          "title": "Before the signal",
+          "viewpoint": "Alexander",
+          "location": "The chamber floor.",
+          "date_time": "Sunday 19 December 1852, about half past ten.",
+          "guide_words": 700
+        },
+        {
+          "scene": 5,
+          "id": "16.5",
+          "title": "The ward awake",
+          "viewpoint": "Alexander",
+          "location": "The chamber.",
+          "date_time": "Sunday 19 December 1852, about twenty-five to eleven.",
+          "guide_words": 600
+        },
+        {
+          "scene": 6,
+          "id": "16.6",
+          "title": "Kill the knife-thrower",
+          "viewpoint": "Alexander",
+          "location": "The chamber stair.",
+          "date_time": "Sunday 19 December 1852, about twenty to eleven.",
+          "guide_words": 700
+        }
+      ]
+    },
+    "17": {
+      "title": "The Fall of the Old Order",
+      "part": 4,
+      "setting": "The northern refuge, Winter 1852",
+      "viewpoint": "Alexander, with a brief look above at Percival",
+      "span": "Sunday 19 December 1852, about quarter to eleven at night, to Monday 20 December, about quarter to eight in the morning.",
+      "guide_words": 4900,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "17.1",
+          "title": "The passage",
+          "viewpoint": "Alexander",
+          "location": "The narrow passage from the chamber.",
+          "date_time": "Sunday 19 December 1852, about quarter to eleven.",
+          "guide_words": 900
+        },
+        {
+          "scene": 2,
+          "id": "17.2",
+          "title": "The window closes",
+          "viewpoint": "A short passage from Percival's side, above ground",
+          "location": "The manor's upper ground, and the engine emplacement on the headland.",
+          "date_time": "Sunday 19 December 1852, about five past eleven.",
+          "guide_words": 500
+        },
+        {
+          "scene": 3,
+          "id": "17.3",
+          "title": "The safeguard",
+          "viewpoint": "Alexander, witnessing",
+          "location": "The chamber and the gallery.",
+          "date_time": "Sunday 19 December 1852, about ten to eleven.",
+          "guide_words": 900
+        },
+        {
+          "scene": 4,
+          "id": "17.4",
+          "title": "Edward",
+          "viewpoint": "Alexander",
+          "location": "The passage doorway.",
+          "date_time": "Sunday 19 December 1852, about ten past eleven.",
+          "guide_words": 500
+        },
+        {
+          "scene": 5,
+          "id": "17.5",
+          "title": "The water",
+          "viewpoint": "Alexander",
+          "location": "The flooding servants' way.",
+          "date_time": "Sunday 19 December 1852, about quarter past eleven, to Monday 20 December, about two in the morning.",
+          "guide_words": 900
+        },
+        {
+          "scene": 6,
+          "id": "17.6",
+          "title": "Into the sea caves",
+          "viewpoint": "Alexander",
+          "location": "The sea cave mouth.",
+          "date_time": "Monday 20 December 1852, about quarter to eight in the morning.",
+          "guide_words": 600
+        }
+      ]
+    },
+    "18": {
+      "title": "The Sea Caves",
+      "part": 4,
+      "setting": "The coastal safehouse, Scottish Highlands, Winter 1852",
+      "viewpoint": "Alexander, with an Ewan interlude",
+      "span": "Monday 20 December 1852.",
+      "guide_words": 4500,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "18.1",
+          "title": "The bothy",
+          "viewpoint": "Alexander",
+          "location": "The coastal bothy and its hidden room.",
+          "date_time": "Monday 20 December 1852, about ten to noon.",
+          "guide_words": 700
+        },
+        {
+          "scene": 2,
+          "id": "18.2",
+          "title": "The swallow handkerchief",
+          "viewpoint": "Alexander",
+          "location": "The bothy, by the fire.",
+          "date_time": "Monday 20 December 1852, about half past twelve.",
+          "guide_words": 700
+        },
+        {
+          "scene": 3,
+          "id": "18.3",
+          "title": "The cup",
+          "viewpoint": "Alexander",
+          "location": "The hidden room.",
+          "date_time": "Monday 20 December 1852, about half past four in the afternoon. (Catherine was brought over by boat just after dusk.)",
+          "guide_words": 800
+        },
+        {
+          "scene": 4,
+          "id": "18.4",
+          "title": "The pockets",
+          "viewpoint": "Alexander",
+          "location": "The bothy loft.",
+          "date_time": "Monday 20 December 1852, about half past five in the evening.",
+          "guide_words": 500
+        },
+        {
+          "scene": 5,
+          "id": "18.5",
+          "title": "No knocks",
+          "viewpoint": "Ewan (interlude)",
+          "location": "Behind the bothy, in the snow.",
+          "date_time": "Monday 20 December 1852, about half past six in the evening.",
+          "guide_words": 400
+        },
+        {
+          "scene": 6,
+          "id": "18.6",
+          "title": "What Catherine carries",
+          "viewpoint": "Catherine",
+          "location": "The hidden room.",
+          "date_time": "Monday 20 December 1852, about eleven at night.",
+          "guide_words": 500
+        }
+      ]
+    },
+    "19": {
+      "title": "Moonset Terms",
+      "part": 4,
+      "setting": "The coastal safehouse, Winter 1852",
+      "viewpoint": "Alexander",
+      "span": "Tuesday 21 December 1852, the winter solstice, the longest night.",
+      "guide_words": 4600,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "19.1",
+          "title": "The man on the shingle",
+          "viewpoint": "Alexander",
+          "location": "The shingle path outside the bothy.",
+          "date_time": "Tuesday 21 December 1852, about noon.",
+          "guide_words": 600
+        },
+        {
+          "scene": 2,
+          "id": "19.2",
+          "title": "Protocol",
+          "viewpoint": "Alexander",
+          "location": "The bothy's main room.",
+          "date_time": "Tuesday 21 December 1852, about one in the afternoon.",
+          "guide_words": 900
+        },
+        {
+          "scene": 3,
+          "id": "19.3",
+          "title": "The pull",
+          "viewpoint": "Alexander",
+          "location": "The door of the hidden room.",
+          "date_time": "Tuesday 21 December 1852, about half past three.",
+          "guide_words": 700
+        },
+        {
+          "scene": 4,
+          "id": "19.4",
+          "title": "The choice is mine",
+          "viewpoint": "Alexander",
+          "location": "The hidden room.",
+          "date_time": "Tuesday 21 December 1852, about quarter to four.",
+          "guide_words": 700
+        },
+        {
+          "scene": 5,
+          "id": "19.5",
+          "title": "Everything spent",
+          "viewpoint": "Alexander",
+          "location": "The shingle.",
+          "date_time": "Tuesday 21 December 1852, about four in the afternoon.",
+          "guide_words": 600
+        },
+        {
+          "scene": 6,
+          "id": "19.6",
+          "title": "Niall",
+          "viewpoint": "Alexander",
+          "location": "The shingle.",
+          "date_time": "Tuesday 21 December 1852, about five in the afternoon.",
+          "guide_words": 700
+        }
+      ]
+    },
+    "20": {
+      "title": "The Signet",
+      "part": 5,
+      "setting": "The coastal safehouse, Winter 1852",
+      "viewpoint": "Alexander",
+      "span": "Tuesday 21 December, about seven in the evening, to Wednesday 22 December 1852, about six in the morning.",
+      "guide_words": 4500,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "20.1",
+          "title": "Her terms",
+          "viewpoint": "Alexander, as witness at Catherine's invitation",
+          "location": "The hidden room.",
+          "date_time": "Tuesday 21 December 1852, about seven in the evening.",
+          "guide_words": 800
+        },
+        {
+          "scene": 2,
+          "id": "20.2",
+          "title": "Purpose",
+          "viewpoint": "Alexander",
+          "location": "The bothy fireside.",
+          "date_time": "Tuesday 21 December 1852, about eight in the evening.",
+          "guide_words": 700
+        },
+        {
+          "scene": 3,
+          "id": "20.3",
+          "title": "An apology",
+          "viewpoint": "Alexander",
+          "location": "The hidden room.",
+          "date_time": "Tuesday 21 December 1852, about nine at night.",
+          "guide_words": 600
+        },
+        {
+          "scene": 4,
+          "id": "20.4",
+          "title": "Beatrice's price",
+          "viewpoint": "Alexander",
+          "location": "Outside the bothy, by the boats.",
+          "date_time": "Tuesday 21 December 1852, about ten at night.",
+          "guide_words": 700
+        },
+        {
+          "scene": 5,
+          "id": "20.5",
+          "title": "The breast pocket",
+          "viewpoint": "Alexander",
+          "location": "The shingle.",
+          "date_time": "Tuesday 21 December 1852, about half past eleven at night.",
+          "guide_words": 600
+        },
+        {
+          "scene": 6,
+          "id": "20.6",
+          "title": "The watch he keeps",
+          "viewpoint": "Alexander",
+          "location": "The hidden room.",
+          "date_time": "Wednesday 22 December 1852, about midnight to five in the morning.",
+          "guide_words": 500
+        }
+      ]
+    },
+    "21": {
+      "title": "A Plan of His Own",
+      "part": 5,
+      "setting": "A ruined croft above the manor, Winter 1852",
+      "viewpoint": "Alexander, with a closing beat from Catherine's preparation",
+      "span": "Wednesday 22 December, about six in the morning, to Thursday 23 December, about half past one in the morning.",
+      "guide_words": 4700,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "21.1",
+          "title": "What each can do",
+          "viewpoint": "Alexander",
+          "location": "The ruined croft on the ridge.",
+          "date_time": "Wednesday 22 December 1852, about ten in the morning (sunrise about 8:43).",
+          "guide_words": 800
+        },
+        {
+          "scene": 2,
+          "id": "21.2",
+          "title": "Watch me",
+          "viewpoint": "Alexander",
+          "location": "The croft.",
+          "date_time": "Wednesday 22 December 1852, about half past ten.",
+          "guide_words": 700
+        },
+        {
+          "scene": 3,
+          "id": "21.3",
+          "title": "Asking",
+          "viewpoint": "Alexander",
+          "location": "The loch where it now pours into the drowned refuge.",
+          "date_time": "Wednesday 22 December 1852, about one in the afternoon.",
+          "guide_words": 600
+        },
+        {
+          "scene": 4,
+          "id": "21.4",
+          "title": "The pieces",
+          "viewpoint": "Alexander",
+          "location": "The croft.",
+          "date_time": "Wednesday 22 December 1852, about half past two to half past three.",
+          "guide_words": 800
+        },
+        {
+          "scene": 5,
+          "id": "21.5",
+          "title": "A letter",
+          "viewpoint": "Alexander, observing",
+          "location": "The croft fire.",
+          "date_time": "Wednesday 22 December 1852, about five in the evening.",
+          "guide_words": 400
+        },
+        {
+          "scene": 6,
+          "id": "21.6",
+          "title": "Pearl powder",
+          "viewpoint": "Alexander",
+          "location": "The croft doorway.",
+          "date_time": "Thursday 23 December 1852, about half past one in the morning (moonset about 5:12).",
+          "guide_words": 700
+        }
+      ]
+    },
+    "22": {
+      "title": "The Second Assault",
+      "part": 5,
+      "setting": "Hessian's manor, Winter 1852",
+      "viewpoint": "Alexander, with Catherine's gate",
+      "span": "Thursday 23 December 1852, about half past two to five in the morning.",
+      "guide_words": 4600,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "22.1",
+          "title": "At the gate",
+          "viewpoint": "Catherine",
+          "location": "The manor gate and hall.",
+          "date_time": "Thursday 23 December 1852, about half past two in the morning.",
+          "guide_words": 900
+        },
+        {
+          "scene": 2,
+          "id": "22.2",
+          "title": "The bell that is not a bell",
+          "viewpoint": "Beatrice (a short passage)",
+          "location": "The gate road and the field.",
+          "date_time": "Thursday 23 December 1852, about three in the morning.",
+          "guide_words": 600
+        },
+        {
+          "scene": 3,
+          "id": "22.3",
+          "title": "The door behind the relief",
+          "viewpoint": "Alexander",
+          "location": "The cellars and the door behind the relief.",
+          "date_time": "Thursday 23 December 1852, about quarter past three.",
+          "guide_words": 700
+        },
+        {
+          "scene": 4,
+          "id": "22.4",
+          "title": "Percival on the stair",
+          "viewpoint": "Alexander",
+          "location": "A stair on the manor's upper floor.",
+          "date_time": "Thursday 23 December 1852, about quarter to four.",
+          "guide_words": 700
+        },
+        {
+          "scene": 5,
+          "id": "22.5",
+          "title": "The deep ways fill",
+          "viewpoint": "Alexander",
+          "location": "The descent to the refuge.",
+          "date_time": "Thursday 23 December 1852, about quarter past four.",
+          "guide_words": 500
+        },
+        {
+          "scene": 6,
+          "id": "22.6",
+          "title": "The threshold",
+          "viewpoint": "Alexander",
+          "location": "The gallery above the covenant chamber.",
+          "date_time": "Thursday 23 December 1852, about five in the morning.",
+          "guide_words": 600
+        }
+      ]
+    },
+    "23": {
+      "title": "For Crown and Kin",
+      "part": 5,
+      "setting": "The covenant chamber, Winter 1852",
+      "viewpoint": "Alexander, with the center held by Catherine's refusal",
+      "span": "Thursday 23 December 1852, about quarter past five to half past six in the morning.",
+      "guide_words": 4900,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "23.1",
+          "title": "The seal",
+          "viewpoint": "Alexander, watching",
+          "location": "The covenant chamber.",
+          "date_time": "Thursday 23 December 1852, about quarter past five.",
+          "guide_words": 700
+        },
+        {
+          "scene": 2,
+          "id": "23.2",
+          "title": "Wilhelm",
+          "viewpoint": "Alexander, witnessing Catherine",
+          "location": "The dais.",
+          "date_time": "Thursday 23 December 1852, about twenty-five past five.",
+          "guide_words": 900
+        },
+        {
+          "scene": 3,
+          "id": "23.3",
+          "title": "Throw, Nillo",
+          "viewpoint": "Alexander",
+          "location": "The chamber steps.",
+          "date_time": "Thursday 23 December 1852, about half past five.",
+          "guide_words": 900
+        },
+        {
+          "scene": 4,
+          "id": "23.4",
+          "title": "Protect, not own",
+          "viewpoint": "Alexander",
+          "location": "The seal.",
+          "date_time": "Thursday 23 December 1852, about twenty to six.",
+          "guide_words": 1000
+        },
+        {
+          "scene": 5,
+          "id": "23.5",
+          "title": "The refuge turns",
+          "viewpoint": "Alexander",
+          "location": "The chamber and the deep stairs.",
+          "date_time": "Thursday 23 December 1852, about six in the morning.",
+          "guide_words": 700
+        },
+        {
+          "scene": 6,
+          "id": "23.6",
+          "title": "Out through the water",
+          "viewpoint": "Alexander",
+          "location": "The chamber.",
+          "date_time": "Thursday 23 December 1852, about quarter past six.",
+          "guide_words": 700
+        }
+      ]
+    },
+    "24": {
+      "title": "Dawn on the Heather",
+      "part": 5,
+      "setting": "The northern coast, Winter 1852",
+      "viewpoint": "Hessian (interlude), then Percival, then Alexander",
+      "span": "Thursday 23 December 1852, about half past eight to half past nine in the morning.",
+      "guide_words": 4300,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "24.1",
+          "title": "Hessian",
+          "viewpoint": "Hessian",
+          "location": "The northern heather, and the ancient cairn.",
+          "date_time": "Thursday 23 December 1852, about quarter to nine to five to nine in the morning.",
+          "guide_words": 800
+        },
+        {
+          "scene": 2,
+          "id": "24.2",
+          "title": "The ridge",
+          "viewpoint": "Percival",
+          "location": "The ridge above the burning manor.",
+          "date_time": "Thursday 23 December 1852, about nine in the morning.",
+          "guide_words": 500
+        },
+        {
+          "scene": 3,
+          "id": "24.3",
+          "title": "The debt",
+          "viewpoint": "Alexander",
+          "location": "The loch shore.",
+          "date_time": "Thursday 23 December 1852, about quarter past nine.",
+          "guide_words": 600
+        },
+        {
+          "scene": 4,
+          "id": "24.4",
+          "title": "Silence",
+          "viewpoint": "Alexander",
+          "location": "The loch cave.",
+          "date_time": "Thursday 23 December 1852, about half past nine.",
+          "guide_words": 600
+        },
+        {
+          "scene": 5,
+          "id": "24.5",
+          "title": "You'll do",
+          "viewpoint": "Alexander",
+          "location": "The shore path.",
+          "date_time": "Thursday 23 December 1852, about ten in the morning.",
+          "guide_words": 500
+        },
+        {
+          "scene": 6,
+          "id": "24.6",
+          "title": "Side by side",
+          "viewpoint": "Alexander",
+          "location": "The shingle.",
+          "date_time": "Thursday 23 December 1852, about half past ten.",
+          "guide_words": 500
+        }
+      ]
+    },
+    "25": {
+      "title": "The House Without Them",
+      "part": 6,
+      "setting": "Sterling Castle, Norfolk, Winter 1852",
+      "viewpoint": "Alexander, with the household",
+      "span": "Friday 31 December 1852 to Friday 7 January 1853.",
+      "guide_words": 4800,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "25.1",
+          "title": "Crape",
+          "viewpoint": "Alexander",
+          "location": "Sterling Castle gate and courtyard.",
+          "date_time": "Friday 31 December 1852, about half past three in the afternoon.",
+          "guide_words": 700
+        },
+        {
+          "scene": 2,
+          "id": "25.2",
+          "title": "What the blood holds",
+          "viewpoint": "Alexander",
+          "location": "The infirmary.",
+          "date_time": "Friday 31 December 1852, about half past five in the evening.",
+          "guide_words": 900
+        },
+        {
+          "scene": 3,
+          "id": "25.3",
+          "title": "Pike",
+          "viewpoint": "Alexander",
+          "location": "The morning room.",
+          "date_time": "Monday 3 January 1853, late morning.",
+          "guide_words": 600
+        },
+        {
+          "scene": 4,
+          "id": "25.4",
+          "title": "The siege at home",
+          "viewpoint": "Alexander",
+          "location": "The fen-side wall.",
+          "date_time": "Tuesday 4 January 1853, afternoon.",
+          "guide_words": 700
+        },
+        {
+          "scene": 5,
+          "id": "25.5",
+          "title": "Freely given",
+          "viewpoint": "Alexander",
+          "location": "The stable vault.",
+          "date_time": "Wednesday 5 January 1853.",
+          "guide_words": 500
+        },
+        {
+          "scene": 6,
+          "id": "25.6",
+          "title": "The binder's hands",
+          "viewpoint": "Alexander",
+          "location": "The sanctuary library alcove.",
+          "date_time": "Thursday 6 January 1853 (Twelfth Night), evening.",
+          "guide_words": 600
+        },
+        {
+          "scene": 7,
+          "id": "25.7",
+          "title": "The jar",
+          "viewpoint": "Catherine",
+          "location": "Catherine's room.",
+          "date_time": "Friday 7 January 1853, about nine at night.",
+          "guide_words": 700
+        }
+      ]
+    },
+    "26": {
+      "title": "The Hidden Crown",
+      "part": 6,
+      "setting": "Windsor Castle and Sterling Castle, January 1853",
+      "viewpoint": "Alexander",
+      "span": "Tuesday 11 January to Thursday 13 January 1853.",
+      "guide_words": 4400,
+      "scenes": [
+        {
+          "scene": 1,
+          "id": "26.1",
+          "title": "The Queen",
+          "viewpoint": "Alexander",
+          "location": "A private room at Windsor Castle.",
+          "date_time": "Tuesday 11 January 1853, late morning.",
+          "guide_words": 900
+        },
+        {
+          "scene": 2,
+          "id": "26.2",
+          "title": "Sebastian",
+          "viewpoint": "Alexander",
+          "location": "A corridor at Windsor.",
+          "date_time": "Tuesday 11 January 1853, about noon.",
+          "guide_words": 500
+        },
+        {
+          "scene": 3,
+          "id": "26.3",
+          "title": "Beatrice",
+          "viewpoint": "Alexander",
+          "location": "A stair at Windsor.",
+          "date_time": "Tuesday 11 January 1853, about half past twelve.",
+          "guide_words": 500
+        },
+        {
+          "scene": 4,
+          "id": "26.4",
+          "title": "For Crown and Kin",
+          "viewpoint": "Alexander",
+          "location": "The council chamber beneath Sterling Castle.",
+          "date_time": "Thursday 13 January 1853, evening.",
+          "guide_words": 700
+        },
+        {
+          "scene": 5,
+          "id": "26.5",
+          "title": "Equals",
+          "viewpoint": "Alexander",
+          "location": "The lower training yard.",
+          "date_time": "Thursday 13 January 1853, about eight at night.",
+          "guide_words": 700
+        },
+        {
+          "scene": 6,
+          "id": "26.6",
+          "title": "The watch, and the cairn",
+          "viewpoint": "Alexander",
+          "location": "Edward's study, then the northern cairn.",
+          "date_time": "Thursday 13 January 1853, the hour Edward always wound it.",
+          "guide_words": 500
+        }
+      ]
+    }
+  }
 }

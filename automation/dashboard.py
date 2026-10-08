@@ -46,15 +46,20 @@ def render(root: Path) -> None:
     chapters = scan_chapters(root)
 
     total_words = sum(row["words"] for row in chapters)
-    target_words = int(progress.get("target_words") or 90000)
-    percent = (total_words / target_words * 100) if target_words else 0
+    target_words = progress.get("target_words")
+    total_chapters = progress.get("total_chapters")
+    if target_words:
+        words_line = f"{total_words:,} / {int(target_words):,} ({total_words / int(target_words) * 100:.1f}%)"
+    else:
+        words_line = f"{total_words:,} (no fixed target)"
 
     print("=" * 68)
     print("CLAUDE CODE NOVEL WRITER v4")
     print("=" * 68)
     print(f"Title: {progress.get('novel_title', 'Untitled')}")
-    print(f"Words: {total_words:,} / {target_words:,} ({percent:.1f}%)")
-    print(f"Current chapter: {progress.get('current_chapter', 1)}")
+    print(f"Words: {words_line}")
+    chapter_of = f" of {total_chapters}" if total_chapters else ""
+    print(f"Current chapter: {progress.get('current_chapter', 1)}{chapter_of}")
     print(f"Tracked status: {progress.get('chapter_status', 'unknown')}")
     print(f"Last sync: {progress.get('last_sync_time', 'never')}")
     if health:

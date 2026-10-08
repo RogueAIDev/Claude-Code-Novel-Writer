@@ -57,8 +57,9 @@ dialogue_share = round(dialogue_words / word_count, 3) if word_count else 0
 warnings = []
 if 0 < word_count < 1200:
     warnings.append("Chapter is very short for a full draft; confirm that it is intentionally brief.")
-if word_count > 7000:
-    warnings.append("Chapter is unusually long; review whether a structural split would improve pacing.")
+# Long first drafts are expected and trimmed in revision; only note extreme length.
+if word_count > 10000:
+    warnings.append("Chapter is over 10,000 words; when revising, consider whether a structural split would help pacing.")
 if avg_paragraph > 120:
     warnings.append("Average paragraph length is high; inspect readability and scene rhythm.")
 if max_paragraph > 350:

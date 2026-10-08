@@ -1,3 +1,8 @@
 {
-  "chapter_1": {"status": "not_started", "words": 0}
+  "chapter_1": {
+    "status": "in_progress",
+    "words": 2363,
+    "file_exists": true,
+    "path": "manuscript/chapters/chapter-1.md"
+  }
 }
