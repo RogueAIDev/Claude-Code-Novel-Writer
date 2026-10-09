@@ -102,3 +102,45 @@ Catherine lives at Sterling Castle in the care of Alexander, now Duke and head o
 ### Questions still open
 
 1. **Catherine's remaining standing (Book Two or later).** Her inheritance under Edward's will. What a Turned Sterling daughter is under Vanguard and Crown law, which matters if the council or the Exterminator faction takes an interest. *Book One default:* none of it is raised on the page.
+
+---
+
+## PART FIVE: DETAILS FIXED BY THE MANUSCRIPT
+
+Details that drafted and accepted prose has made canon. Each entry names the draft and the review it came from. These are waiting to be copied into the bibles named; until then, this list is where agents find them.
+
+### Chapter 1, Scene 1 (Draft 2, from the review `Ch01_Sc01+Stage3_Section-by-Section+2026-10-08_1931.md`, accepted in full by the author, 8 October 2026)
+
+- **Morning of 27 September 1851.** Alexander rode out at seven, at Edward's request, to look at the second cut on Harrow's Fen, and returns up the hill road to the gate at about eleven. *(Outline 1.1.)*
+- **The rooks** are in the chestnuts above the gate and loud that morning, before they lift at Hessian's arrival in 1.3. *(Location Bible, "The festival yard.")*
+- **Carrow** is one of the estate hands at the cider cart: the youngest, wiry and quick, the Widow Carrow's son, who rides the house's errands faster than anyone in the stables. This sets up his ride north in 2.5. *(Supporting Bible, "Simmons and Carrow.")*
+- **The Widow Carrow** is small and upright, wears her Sunday black to the festival, keeps one cow, and her marrow is the one suspected of being watered. She tells Alexander he has his father's eyes, "always looking for what's wrong with a thing." *(Supporting Bible, "Estate Tenants and Villagers.")*
+- **Other tenants:** Mr. Fenwick, short and square, with a voice made for calling cattle across three fields, who says "bor." Farmer Hodge, tall and stooped, who "argued with his whole neck," of the weight-over-girth argument. The Davies boys and the swing on the lowest chestnut bough. Mrs. Davies's damson cheese. Thrower's farm supplies extra cider. *(Supporting Bible, "Estate Tenants and Villagers.")*
+- **Edward** turns the rifle ball with his **left** hand, in his pocket, when he listens. He checks his watch during the marrow judging. *(Main Character Bible, Edward, Quirks.)*
+- **Amelia's winter of gloves** was the winter of 1845–46, when Alexander was sixteen. She never took them off and "told everyone it was the cold," and he teased her about it until she laughed. Scene 5.1 calls back to this. *(Main Character Bible, Amelia.)*
+- **John Barrow,** Thomas's father, is **mentioned, not seen,** in Book One. He brought the last load of the Fen's hay up himself, on his ruined knee. Thomas: "Most estates, a man goes lame, he goes without wage the same week. Not here." He appears in person in Book Two, as the bible says. *(Supporting Bible, Thomas Barrow.)*
+- **Mrs. Thompson** plucks a straw from Alexander's hair ("Shows up something terrible on black, that does, love").
+- **Catherine** calls him "Master Alexander" in mock formality and says he looks "like a portrait of a duke that someone has left out in the rain."
+
+### Corrections to the planning documents (accepted)
+
+- **Outline 1.1, Rules to honor:** "'Alex' only from family and Niall" is superseded by the Main Character Bible (Catherine always; Niall in private, danger, or honesty), as already recorded in Part One of this file.
+- **Location Bible, "The great kitchen and morning room":** "in the book's second scene" should read "in the second half of the book's first scene (1.1)."
+
+### Alexander's title and forms of address (ruled by the author, 8 October 2026)
+
+- **Courtesy title.** As the Duke of Norwich's eldest son, Alexander bears his father's subsidiary title by courtesy: **the Marquess of Wensum**, after the river through Norwich. Peers and guests call him **Lord Wensum**. Servants, tenants, and strangers address him as **"my lord."** After he succeeds (December 1852) he is the eighteenth Duke, "Your Grace." The author asked for "Marquess of Norwich or whatever"; Wensum was chosen because a duke's heir almost never shares the dukedom's own place-name.
+- **"Master Alexander"** is a household custom. The family's household staff, and the estate tenants on Sterling ground, call him "Master Alexander" when only the family is present. **When guests are present, they say "my lord."** This keeps the prequel's and 1.1's usage correct.
+- **Catherine** is "Lady Catherine" to everyone outside the family.
+- **Pending a check by the author:** the prequel was written before this ruling. Its "Master Alexander" (Niall, 1845) fits the custom. Any place where an outsider calls the young Alexander "Master" should be noted for the prequel's next printing.
+
+### Chapter 1, Scene 2 (decisions from the packet review `Ch01_Sc02_Packet+Stage1-2_Outline-Research+2026-10-08_1947.md`, accepted by the author, 8 October 2026)
+
+- **Weapons.** The blunt iron practice knives from the prequel's set: dull-edged, heavier through the hilt, leather-wrapped grips, kept in a wooden box. Live steel first comes in 6.3.
+- **The tree line.** Rooks go up out of the trees beyond the water-meadow, twice, while Niall watches. The cause, never revealed in Book One, is Josef, Hessian's human familiar, scouting by daylight before he drives the carriage at dusk (1.3).
+- **Names.** Alone, Niall calls Alexander "Alex" (the book's first use of the name is Niall's, in this scene), and Alexander calls him "Niall." In company, Niall says "sir," or "my lord" before guests, and Alexander says "Fraser." When Catherine arrives, Niall drops "Alex" for "sir," and she hears the change.
+- **"Tomorrow?" / "Tomorrow, then."** This exchange closes every lesson, as it closed the first in 1845. 26.5 is the last time the old ritual is spoken.
+- **The kept knife.** Alexander kept the knife from his first good throw in 1845. Niall noticed it was missing and never replaced it. The box holds five, and neither has ever spoken of it.
+- **The splinter.** Niall sees the torn skin at the heel of Alexander's right hand and moves his own thumb so it doesn't press there, without comment.
+- **Distance.** The throwing line is at seven paces, which Niall paced out himself.
+- **Niall's handkerchief** goes between the pages of his notebook the moment Catherine gives it to him, where it stays until 26.5.

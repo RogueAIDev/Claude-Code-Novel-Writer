@@ -10,7 +10,7 @@ import time
 from pathlib import Path
 
 
-CHAPTER_RE = re.compile(r"chapter-(\d+)\.md$")
+CHAPTER_RE = re.compile(r"chapter-(\d+)(?:_draft-\d+)?\.md$")
 
 
 def load_json(path: Path) -> dict:

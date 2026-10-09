@@ -23,7 +23,7 @@ duplicates_found=false
 
 for file in "${chapter_files[@]}"; do
     # Extract chapter number
-    if [[ $file =~ chapter-([0-9]+)\.md$ ]]; then
+    if [[ $file =~ chapter-([0-9]+)(_draft-[0-9]+)?\.md$ ]]; then
         chapter_num=${BASH_REMATCH[1]}
         # Remove leading zeros for comparison
         chapter_num=$((10#$chapter_num))

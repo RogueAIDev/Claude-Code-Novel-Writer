@@ -4,7 +4,7 @@
 # Get the most recently written chapter file
 last_file="${1:-$(ls -t manuscript/chapters/chapter-*.md 2>/dev/null | head -1)}"
 
-if [[ "$last_file" =~ chapter-([0-9]+)\.md ]]; then
+if [[ "$last_file" =~ chapter-([0-9]+)(_draft-[0-9]+)?\.md ]]; then
     chapter_num=${BASH_REMATCH[1]}
     # Remove leading zeros
     chapter_num=$((10#$chapter_num))

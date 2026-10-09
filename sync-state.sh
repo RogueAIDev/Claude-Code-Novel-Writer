@@ -26,14 +26,27 @@ quiet = bool(int(sys.argv[1]))
 root = Path(".")
 chapters_dir = root / "manuscript" / "chapters"
 planning_dir = root / "planning"
-chapter_pattern = re.compile(r"^chapter-(\d+)\.md$")
+# Current drafts live in manuscript/chapters as chapter-N.md or chapter-N_draft-D.md.
+# Earlier drafts belong in manuscript/drafts, which is not tracked.
+chapter_pattern = re.compile(r"^chapter-(\d+)(?:_draft-(\d+))?\.md$")
 
-chapter_rows = []
+candidates = {}
 for path in chapters_dir.glob("chapter-*.md"):
     match = chapter_pattern.match(path.name)
     if not match:
         continue
     chapter = int(match.group(1))
+    draft = int(match.group(2)) if match.group(2) else 1
+    candidates.setdefault(chapter, []).append((draft, path))
+
+chapter_rows = []
+for chapter, versions in candidates.items():
+    versions.sort()
+    draft, path = versions[-1]
+    if len(versions) > 1 and not quiet:
+        older = ", ".join(str(p) for _, p in versions[:-1])
+        print(f"WARNING: chapter {chapter} has more than one draft in manuscript/chapters; "
+              f"tracking {path}. Move older drafts to manuscript/drafts: {older}")
     try:
         words = len(path.read_text(encoding="utf-8").split())
     except UnicodeDecodeError:
@@ -46,21 +59,22 @@ for path in chapters_dir.glob("chapter-*.md"):
     else:
         status = "minimal"
 
-    chapter_rows.append((chapter, path, words, status))
+    chapter_rows.append((chapter, path, words, status, draft))
 
 chapter_rows.sort(key=lambda row: row[0])
 
 chapter_status = {}
-for chapter, path, words, status in chapter_rows:
+for chapter, path, words, status, draft in chapter_rows:
     chapter_status[f"chapter_{chapter}"] = {
         "status": status,
         "words": words,
+        "draft": draft,
         "file_exists": True,
         "path": str(path),
     }
 
-completed = [chapter for chapter, _, _, status in chapter_rows if status == "complete"]
-incomplete = [chapter for chapter, _, _, status in chapter_rows if status != "complete"]
+completed = [row[0] for row in chapter_rows if row[3] == "complete"]
+incomplete = [row[0] for row in chapter_rows if row[3] != "complete"]
 highest = max((row[0] for row in chapter_rows), default=0)
 total_words = sum(row[2] for row in chapter_rows)
 

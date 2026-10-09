@@ -25,6 +25,8 @@ When sources disagree, use this order unless the user says otherwise:
 5. Character and world state
 6. Derived metrics, flags, logs, and automation output
 
+Draft files: `manuscript/chapters/` holds only the current draft of each chapter, named with its draft number, such as `chapter-1_draft-2.md`. A new draft is a new file with the next number. Move the previous draft to `manuscript/drafts/` in the same step, keeping its name. Never edit an archived draft. The tracking scripts read `manuscript/chapters/` only, accept either `chapter-N.md` or `chapter-N_draft-D.md`, and warn if two drafts of one chapter sit there together.
+
 Manuscript files are authoritative for drafted prose and actual word counts. If tracking disagrees with manuscript files, run `./sync-state.sh`. Do not rewrite prose to match stale tracking.
 
 ## Story sources
@@ -48,6 +50,10 @@ Viewpoint and tense: tense is chosen separately for each work in the series, not
 Length: there is no hard word count for the novel, a chapter, or a scene. The outline's lengths are a general guide only. First drafts may run long and are trimmed in later drafts.
 
 `planning/novel-outline.json` is a machine-readable index derived from the scene outline. It holds parts, chapter titles, viewpoints, spans, length guides, and per-scene location, date, and length guide. When the index and the markdown disagree, the markdown wins. Regenerate the index or fix it; never change the markdown to match it.
+
+`planning/Story_Beats_and_Plotlines.md` is a derived map of the main plot, the seven-point structure, Alexander's inner arc, every subplot's beats, and pacing watch-points. Use it to see what a scene must carry for the threads around it. It is not canon: where it differs from the outline, the outline wins.
+
+`planning/IdeasForDraft_2.md` holds proposals for side plots and character inner lives. Draft from an item only if the author has marked it ADOPTED; adopted items are also recorded in `planning/Gap_Resolutions.md`.
 
 These files are large; the Scene Packets alone run to about 10,000 lines. Read by section, not whole files:
 

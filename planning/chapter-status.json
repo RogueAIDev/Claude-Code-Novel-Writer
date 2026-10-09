@@ -1,8 +1,9 @@
 {
   "chapter_1": {
-    "status": "in_progress",
-    "words": 2363,
+    "status": "complete",
+    "words": 5550,
+    "draft": 2,
     "file_exists": true,
-    "path": "manuscript/chapters/chapter-1.md"
+    "path": "manuscript/chapters/chapter-1_draft-2.md"
   }
 }

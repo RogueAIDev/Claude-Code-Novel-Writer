@@ -1,13 +1,13 @@
 {
   "chapters": {
     "chapter_1": {
-      "timestamp": "2026-10-08T22:09:33.351211Z",
-      "path": "manuscript/chapters/chapter-1.md",
-      "word_count": 2358,
-      "paragraph_count": 49,
-      "avg_paragraph_words": 48.1,
-      "max_paragraph_words": 188,
-      "dialogue_share": 0.17,
+      "timestamp": "2026-10-09T00:08:00.573558Z",
+      "path": "manuscript/chapters/chapter-1_draft-2.md",
+      "word_count": 5543,
+      "paragraph_count": 137,
+      "avg_paragraph_words": 40.5,
+      "max_paragraph_words": 195,
+      "dialogue_share": 0.13,
       "warnings": [],
       "note": "Mechanical signals only. These values do not measure literary quality."
     }
