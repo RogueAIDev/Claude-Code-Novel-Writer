@@ -156,6 +156,7 @@ After writing:
 2. Run `./sync-state.sh`.
 3. Report the file, approximate word count, story-state changes, and continuity facts.
 4. Note any downstream chapter or planning changes that may be needed.
+5. When a chapter is finished, add its "Added Details not in Scene Packet" list to `manuscript/added-details/chapter-N.md` (one `## Scene S (Draft D)` section per scene), then run `python3 automation/build-draft-pdfs.py --book-draft B`. This rebuilds the author's reading PDFs in the template layout from `templates/`: one file per scene in `manuscript/<Ordinal> Draft/Scenes/`, one per chapter in `Chapters/`, and the whole manuscript so far in `Full Draft/`. A `***` followed by an HTML comment containing "same scene" marks a viewpoint change inside one scene.
 
 Claude Code and Codex may perform some of this through trusted lifecycle hooks. Verify the resulting state rather than assuming the hook ran.
 
@@ -202,6 +203,7 @@ Do not declare publication readiness solely because automated checks pass.
 automation/system-health-check.sh
 automation/quality-check.sh manuscript/chapters/chapter-N.md
 python3 automation/dashboard.py
+python3 automation/build-draft-pdfs.py --book-draft 1
 ```
 
 ## Repository validation

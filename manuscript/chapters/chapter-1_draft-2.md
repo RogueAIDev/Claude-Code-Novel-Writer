@@ -271,3 +271,191 @@ A footman stepped forward to take the Count's hat. Another came to Alexander's e
 He went in to dress. On the stair he stopped, for no reason, and looked out through the landing window at the chestnuts on the drive. They stood black against the last of the grey, every branch of them empty. Behind him, down in the hall, he heard the stranger laugh at something the Reverend Mr. Ashby had said, a pleasant laugh, exactly as long as it ought to have been.
 
 He was cold all the way up to his room, and it was not until he had shut the door that he noticed he had been listening, the whole way, for the rooks.
+
+***
+
+The great hall had been dressed for the harvest since Thursday. Sheaves stood bound in the corners, and swags of wheat and red ribbon ran the length of the gallery rail, and someone, in a spirit Alexander suspected was Catherine's, had set Farmer Hodge's prize marrow in the middle of the high table between two branches of candles, where it lay in state like a bishop. The fire was built high. The long table was full: the Reverend Mr. Ashby and his wife, the Fenwicks and the Hodges and the other senior tenants in their best, the Lowndes from Holt, Thomas Barrow in his formal coat looking as if it pinched him. Wood smoke and beeswax and roast goose. And under the door at the bottom of the hall, where it always came in on a September night, a thin draught that found Alexander's ankles and stayed there.
+
+He had dressed. He had stood in front of his fire for ten minutes before he went down, and he was still cold.
+
+The Count had been put at his mother's right hand, as a foreign nobleman must be, and Catherine directly across from him, as no one had intended. Miss Gray sat two places down from the Count. She had walked the two miles from her cottage before the lamps were lit, as she always did, and had spent the hour before dinner upstairs with his mother, as she always did, and she had come down to table in the same grey wool she wore to walk in, with the same plain amulet at her throat. She was tall and spare and very straight, with dark hair and a single streak of white in it, and a face the weather had worked on for a great many years. Alexander had known her all his life as his mother's odd friend, who smelled of lavender and woodsmoke and old paper, and who had once, when he was six, looked into a basin of water for him and told him gravely that he would be tall.
+
+O'Brien moved behind the chairs with the wine. The steward was sixty, silver-haired, and pressed as sharp as a new card, and he had spent forty years at this table being noticed by no one, which was his art. His face gave away nothing at all. It never did.
+
+Alexander had wanted one thing from the evening, which was for it to pass. He wanted the goose carved and the toasts made and the Reverend Mr. Ashby's speech about the harvest got through in under a quarter of an hour, and he wanted his sister not to begin on the Rhine. Catherine at a dinner table with a stranger who had travelled was a horse with the bit between its teeth.
+
+She began on the Rhine before the soup was cleared.
+
+It was not, in fairness, her fault. The Count drew her out. He did it very well, with small questions laid down one at a time like a man setting out cards, and he listened to her answers in a way Alexander had never seen anyone listen to Catherine. He did not listen the way their father did, with patience, or the way Alexander did, with half his mind elsewhere. He listened the way a locksmith listens to the tumblers of a lock, with his head a little on one side, as though each word she said was falling into place somewhere inside her and he could hear it land.
+
+"My mother has friends abroad," Catherine was saying, "who write to her. One in Vienna and one in Pest and an old gentleman in Ragusa who writes entirely about his figs. They send the most wonderful letters. About the opera, and the ice on the river, and a procession with lanterns that went all the way down to the water." Her colour was high. She had drunk half a glass of claret and eaten nothing, and she leaned across the cloth toward him with her hands folded under her chin. "Have you been on the Danube, Count?"
+
+"I was born above it," Hessian said.
+
+He told her about it. He told it well. He described a gorge in the far east of the Empire where the river went through the mountains between cliffs so high and so close that the sun reached the water for an hour a day; the Iron Gates, he said, the boatmen called it, and they crossed themselves going in. He described whirlpools that could turn a barge end for end, and a fortress on a crag above them where the wind never stopped, and the villages of the Carpathians where the women painted their doors blue against the evil eye. He had a low, unhurried voice that made the hall seem to lean in toward it, and the Hodges at the far end had stopped eating to listen. It was a fine account. Alexander noticed, without quite meaning to, that the Count had eaten nothing while he gave it. His goose lay carved on his plate and he had moved it from one side to the other with his fork, once, as a man might move a piece on a board. His wine stood untouched at his right hand. As he finished speaking he put out two fingers and turned the glass a quarter turn on the cloth, and left it.
+
+Catherine had not taken her eyes from him.
+
+"Can you imagine?" she said. She said it not to him but to the table, to all of them, as if it had been forced out of her. "Actually seeing any of it. Not reading it in someone's letters home. Seeing it?"
+
+Hessian did not answer. He looked at her, and his face did the thing it had done on the steps: it went still, and in the stillness it stopped being any particular age. But it was not the same stillness. On the steps it had been the stillness of a man startled. This was the stillness of a man who has been listening for a long time at a door and has at last heard, from the other side, the sound he was waiting for.
+
+Then he smiled at her, the good smile, and the moment passed, and the Reverend Mr. Ashby began to say something about the Euphrates in the Book of Revelation.
+
+"He powders," Catherine said, low, to Alexander, under cover of it. She had leaned toward him behind her glass. "Did you see? At his collar. There's a line where it stops." She looked delighted. "I think it's rather sweet. A great foreign count, and he's vain as a curate."
+
+Alexander looked. In the candlelight there was, perhaps, a faint pale line along the edge of the Count's collar where the skin above it was a shade whiter than the skin below. He would not have seen it if she had not told him. He decided she was right, and that it was sweet, and that he did not like it.
+
+"Don't stare," he said. "You'll embarrass him."
+
+"I never embarrass anyone. I'm a delight." But she sat back.
+
+It was then that Alexander noticed Miss Gray.
+
+She had not spoken through the whole of the Count's account. She sat very upright with her hands in her lap, and now one of them had come up to the amulet at her throat and closed on it. Her left eye, the odd one, which had always caught the light strangely, had clouded over like a pane of glass when someone breathes on it, and as he watched, a thin silver came up into the cloud from underneath, the way a tarnished spoon shows its silver when it is rubbed. She was looking at the Count. Then she looked down the table at Alexander's mother, a long look, and she opened her mouth.
+
+She closed it again. Her hand stayed on the amulet. She said nothing at all.
+
+Alexander had seen her eye do that before, at christenings and funerals, once when a storm came in off the sea. It was Miss Gray's oddness. Everyone in the district knew about it and no one remarked on it, as no one remarked on the vicar's limp. He looked away from her and back to his plate, and when he looked up again the silver had gone out of the eye and it was only grey.
+
+"You said this evening that you'd come about land, Count." His father's voice came down the table, easy and pleasant, the voice he used at tenants' dinners to bring a conversation round from wherever it had wandered to wherever he wanted it. He had thirty years of practice at it and it showed. "You'll find Norfolk poor hunting for that. We drain what we have and keep it. But if it's remote ground that interests you, there's land in the north of Scotland that nobody has wanted in a hundred years."
+
+Hessian turned his head. "In the north?"
+
+"Wester Ross. Near Loch Maree. Rock and heather and a good deal of weather." His father reached for his own glass. "My grandfather used to say it was the only property he owned that had never once given him trouble, because there was nothing on it to give any."
+
+"How very restful," Hessian said. "I collect land that no one else particularly wants. It is a foreign eccentricity."
+
+Alexander looked at his father. He could not think why he had brought it up. The northern tract was a line in the ledgers even more remote than Harrow's Fen, a figure for rates and nothing else, and he had never in his life heard his father offer anything to anyone across a dinner table. His mother's face was perfectly calm. She was cutting a piece of goose very small.
+
+The talk went on. The toasts were made. The Reverend Mr. Ashby's speech ran to twenty minutes. Before the ladies rose, the Count excused himself, with his grave correct courtesy, to take a little air, and O'Brien drew back his chair, and he went out by the door at the bottom of the hall where the draught came in.
+
+O'Brien came along the table behind him to clear his place. He lifted the Count's plate with the goose still on it, and then the Count's glass, and Alexander, watching for no reason he could name, saw that the wine in it stood exactly as high as it had when O'Brien poured it. Not a sip. Not the smallest mark on the rim.
+
+O'Brien's face gave away nothing. He carried the full glass out with the plate as though it were empty, and Alexander, who did not like the Count, told himself that a foreigner might very well not care for claret.
+
+</div><p align="center">***<
+
+***
+
+By half past eleven the house had gone quiet the way it always did after a festival dinner, not all at once but a room at a time, as if someone were walking through it putting out the noise like candles. Alexander had gone up, and undressed, and lain for half an hour under two blankets without getting warm, and then he had dressed again and gone down by the back stair in his shirt and an old coat to stand somewhere that was honestly cold, which seemed better.
+
+The kitchen garden was dark. There was no moon. The cloud that had come up in the afternoon had settled over the whole county like a lid, and the only light came from the house behind him, a few late windows: the kitchen, where someone was still scouring pans, and high up at the end of the east range, in the tall windows of the long gallery, a single candle. Catherine, he thought. She never could sleep after company. The garden smelled of turned earth and the last of the fennel, sharp and sweet where he brushed it, and beyond the low wall at the bottom the dark went on without any shape at all.
+
+Niall was standing at the end of the bean rows.
+
+He had his coat on and his hands in his pockets, and he was not doing anything, not smoking, not walking. He was simply standing in the middle of the cabbages at midnight, facing the wall, the way he had stood at the chalk line that afternoon facing the trees. He did not turn round. He had heard Alexander come down the steps; Alexander had never once in six years got near him without being heard.
+
+"You're on watch," Alexander said.
+
+"I'm taking the air."
+
+"In the dark. Among the cabbages."
+
+"They're quiet company." Niall did not look away from the wall. "Unlike some."
+
+Alexander came and stood beside him. It was a little warmer there, or he imagined it was. Up in the chestnuts along the drive there was not a sound. He had not noticed until now that the rooks had never come back.
+
+"You saw something this afternoon," he said. "In the trees."
+
+"I saw rooks."
+
+"You saw what put them up."
+
+Niall did not answer that. Alexander was trying to decide whether to push it, and was finding again, as he had at the chalk line, that he would rather do almost anything than ask a plain question and be given a plain nothing in return, when something moved on top of the garden wall.
+
+He did not see it so much as see the dark change shape. A piece of the night at the top of the wall, forty yards off, was blacker than the rest, and then it was larger, and then there was a sound like a heavy cloak thrown open, once, and a gust of air came across the cabbages and lifted the hair off his forehead.
+
+Niall was already moving.
+
+He did not run, exactly. He went down the path between the bean rows at a long, quick, silent stride, and when he came to the wall he went over it without breaking that stride, one hand on the coping, and was gone.
+
+"Stay there, Alex," came back over the wall, low.
+
+Alexander did not stay there. He went down the path after him as fast as he could in the dark, which was not fast, and turned his ankle on the edge of a bed, and caught himself, and reached the wall. It was chest-high. He put his hands on it and looked over into the paddock beyond, and there was nothing. No Niall. No shape. Only the dark, and the wet smell of grass, and very far off the sound of the last of the festival, a single drunk voice singing on the hill road, going home.
+
+He listened. He heard nothing move in the paddock. He heard nothing in the air. He stood with his hands on the cold coping and was aware, all at once and absurdly, that he was afraid, and that he had no idea of what.
+
+It was perhaps five minutes before Niall came back. Alexander heard him this time, his boots in the wet grass, and then he came over the wall the way he had gone, lightly, and dropped down beside him breathing hard. He had something in his hand.
+
+"What was it?"
+
+Niall held it up into what little light came from the kitchen window. It was a feather. It was a wing feather, a flight feather, dark and barred with a paler brown, the vane stiff and whole and the quill as thick as a pen. And it was long. It was longer than Alexander's forearm from elbow to fingertip. He knew every large bird in the county. He had seen herons stand in the Fen and swans come down on the river, and when he was a small boy his father had taken him out on the brecks near Thetford to see the last of the great bustards, a pair of them, before they were gone from Norfolk for good. None of them had ever carried a feather like that.
+
+"What is it?" he said again.
+
+Niall looked at the feather for a moment. His face in the window light was perfectly calm, and perfectly closed, in a way Alexander had seen once already that day. Then he opened his coat and put the feather inside it.
+
+"Nothing you need to carry tonight," he said.
+
+It was what his father had done on the steps with the letter. It was the same small movement, the coat opened, the thing put away against the chest, the coat closed over it, and Alexander, standing with his hands still on the wall, understood that he had now been shut out of two things in one day by the two men he would most have liked to be let in by.
+
+"Go up," Niall said, more gently. "You'll take cold."
+
+"I've been cold since six o'clock."
+
+Niall looked at him then, really looked, for the first time since he had come down the steps. Whatever he was going to say, he did not say it. "Go up anyway," he said.
+
+Alexander went. At the top of the kitchen steps he turned. Niall had not moved from the wall. He was standing where Alexander had left him, with his back to the house and his hand flat against his coat over the place where the feather was, looking out into a dark that had nothing in it. And high above the garden, in the tall windows at the end of the long gallery, the single candle was still burning.
+
+***
+
+<!-- same scene: viewpoint changes -->
+
+Catherine had come to the long gallery because it was the one room in the house where nobody ever was.
+
+She had brought one candle and set it on the sill of the last window, and she sat on the window seat beside it with her feet tucked up under the green silk and her back against the cold glass, and listened to the house finish being loud. It was like the last bars of a piece played by too many people: one by one they lifted their bows, and the sound got thinner, and in the end there was only the clock on the landing and her own heart going, rather fast still, from the claret, or the evening, or the Iron Gates.
+
+The Iron Gates. She had them in her head and could not get them out. Cliffs so close the sun only touched the water for an hour. Whirlpools that turned a barge end for end. Doors painted blue. She had the place on a map already, she was nearly sure, on the page of her atlas where the Danube came down out of Hungary and went through the mountains in a thin blue thread, and she had touched that thread a hundred times without knowing there was anything there to touch. Now there was. Now there was a fortress on a crag and a wind that never stopped. She wanted it so badly that it felt like hunger, and she sat with it in the candlelight, and was ashamed, and did not let it go.
+
+Down the length of the gallery her great-great-grandmothers looked at her out of their frames. Every one of them had been painted indoors. She had noticed it when she was twelve and never been able to stop noticing it: a Sterling woman in a blue room, a Sterling woman in a red room, a Sterling woman with a spaniel in a room with a window behind her, and through the window, very small, the park, painted in as an afterthought. Great-grandmamma Harriet had never once been out of Norfolk and had been proud of it all her life. She hung by the door, in grey, holding a prayer book, looking pleased.
+
+Down in the garden somebody called out, a man's voice, low and short. Alexander's, she thought, and then not, and then she did not think about it any further, because when she turned her head from the window the Count was standing six feet away from her in the candlelight.
+
+She had not heard him come. That was odd, a little, on those boards; they had sung under every footstep since she was a child, and Alexander could not cross the gallery without it announcing him like a herald. But the Count was a foreigner, and a light man for his height, and perhaps the boards were kinder to people they did not know. She found that she was not frightened. She found that she was rather glad.
+
+"Forgive me," he said. "I have startled you."
+
+"No. I didn't hear you, that's all. Everyone else in this house sounds like a dropped tray." She did not get up, though she knew she ought to, and he did not seem to expect it. "Are you lost, Count? People get lost. It's a very badly designed house. It was built by four different Sterlings who all disliked each other."
+
+"I was looking at your ancestors." He turned his head to the long row of them, unhurried. "They are very handsome. And very still."
+
+"They're always indoors," Catherine said. "Have you noticed? Every one of them. I used to think it was the painter's fault."
+
+"And now?"
+
+She looked at Great-grandmamma Harriet with her prayer book. "Now I think it's the family's."
+
+He did not laugh, as most people would have, to show her that she was being amusing. He came a little nearer, into the light, and stood at the end of the window seat with his hands behind his back, and looked at her. His face in the candlelight was pale and grave and kind, and he was waiting for her to say more, and it came to her that nobody in her life had ever simply waited for her to say more. People waited for her to finish.
+
+"What do you want of your life, Lady Catherine?" he asked.
+
+It was such a strange thing for a man to ask, and he asked it so quietly, as if it were the only question in the world worth asking, that she answered it. Not with what she wanted. She had never said what she wanted to anyone, not even to Alex, and she did not say it now. She said what she was going to have.
+
+"Oh, it's all arranged," she said. "It's very simple. I shall be proper. I am already quite proper, you know, when anyone's looking. In a year or two Papa will find someone suitable, and he will be a perfectly good man with a perfectly good house in a perfectly good county, probably this one, and I shall go and live in his rooms instead of my father's. I shall have very nice rooms. I shall choose the curtains. And one day someone will paint me in one of them, with a spaniel, and they'll hang me down there next to Great-grandmamma, and some girl will sit here on this seat in a hundred years and wonder why I never went outside." She heard her own voice go thin at the end, and laughed to cover it. "That's all. It's a very good life. Everyone says so."
+
+The Count was quiet for a moment. The candle flame stood perfectly straight between them; there was no draught in the gallery at all.
+
+"That sounds less like a life than a waiting room."
+
+Catherine went still.
+
+It was the thing. It was the exact thing, the thought she had carried about with her since she was twelve years old and had never once let out of her mouth, not to her mother and not to Alex and not to Bess, not even to the page of the atlas where she kept everything else. A waiting room. A room full of very nice chairs where you sat with your hands in your lap until someone came to the door and called your name, and then you went into another room exactly like it. She had never found the words for it, and this man had walked out of the dark and handed them to her as if she had dropped them.
+
+Something loosened in her chest, warm and frightening, like the first notes of a piece she had wanted all her life to be able to play.
+
+"Yes," she said. "That's exactly what it is."
+
+He inclined his head, as though she had confirmed something he had already known.
+
+"I am to call on your father on Tuesday," he said, "about a little wet meadow I saw from the road. I think he will not wish to sell it to me."
+
+"Harrow's Fen?" She laughed, and this time it was real. "No. He won't. He'd sooner sell me."
+
+The Count looked at her. He did not laugh with her. He only looked, with that grave, kind, waiting face, until her laugh ran out of its own accord and left the gallery very quiet.
+
+"Goodnight, Lady Catherine," he said, and bowed, and went back down the long gallery between her painted grandmothers, and she did not hear his steps on the boards at all.
+
+She sat on in the window seat after he had gone, with her arms round her knees. The candle had burned down to a stub. Outside the tall windows the night was perfectly black, without a star, and somewhere below in the garden a man was standing by the wall, but she did not look down to see who. She was thinking of a gorge where the sun reached the water for one hour in the day. She was thinking that someone had finally said it out loud.
+
+She wanted very much to hear him say it again.
